@@ -1,0 +1,21 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=160
+END=1398
+title=Проверка авторизации Верный пароль и верный логин
+[CHAPTER]
+TIMEBASE=1/1000
+START=1776
+END=2638
+title=Проверка авторизации Верный логин и неверный пароль
+[CHAPTER]
+TIMEBASE=1/1000
+START=2643
+END=3502
+title=Проверка авторизации Валидация на наличие @
+[CHAPTER]
+TIMEBASE=1/1000
+START=3726
+END=4362
+title=Проверка авторизации Восстановление пароля
